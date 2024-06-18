@@ -10,7 +10,7 @@ object ex4{
             3.00
         }
         else{
-            4+(copies-50)*0.75
+            3+(copies-50)*0.75
         }
     }
     def totalCost(copies:Int):Double={
